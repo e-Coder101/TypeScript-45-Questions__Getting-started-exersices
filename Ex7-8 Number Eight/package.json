@@ -1,0 +1,12 @@
+{
+  "name": "ex7-8-number-eight",
+  "version": "1.0.0",
+  "description": "**Task:** Write addition, subtraction, multiplication, and division operations that each result in the number 8. Be sure to enclose your operations in print statements to see the results. Your output should simply be four lines with the number 8 appearing once on each line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
