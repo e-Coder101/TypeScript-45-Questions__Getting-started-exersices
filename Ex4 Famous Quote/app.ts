@@ -1,0 +1,1 @@
+console.log(`Napoleon once said, “Men are moved by two levers only: fear and self interest.”`);

@@ -1,0 +1,12 @@
+{
+  "name": "ex4-famous-quote",
+  "version": "1.0.0",
+  "description": "**Task:** Find a quote from a famous person you admire. Print the quote and the name of its author.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
