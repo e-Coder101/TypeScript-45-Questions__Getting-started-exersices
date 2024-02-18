@@ -1,0 +1,12 @@
+{
+  "name": "ex10-adding-comments",
+  "version": "1.0.0",
+  "description": "**Task:** Choose two of the programs you’ve written, and add at least one comment to each.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
