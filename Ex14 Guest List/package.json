@@ -1,0 +1,12 @@
+{
+  "name": "ex14-guest-list",
+  "version": "1.0.0",
+  "description": "**Task:** Make a list that includes at least three people you’d like to invite to dinner. Then use your list to print a message to each person, inviting them to dinner.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
