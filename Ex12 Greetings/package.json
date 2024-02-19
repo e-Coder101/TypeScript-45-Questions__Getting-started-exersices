@@ -1,0 +1,12 @@
+{
+  "name": "ex12-greetings",
+  "version": "1.0.0",
+  "description": "**Task:** Start with the array you used in Exercise 11, but instead of just printing each person’s name, print a message to them.\r **Solution:** \r - Create an array variable and store some name strings in it.\r - use a loop *(for, foreach)* to go the array and log its elements one by one.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
