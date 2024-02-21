@@ -1,0 +1,12 @@
+{
+  "name": "ex19-dinner-guests",
+  "version": "1.0.0",
+  "description": "**Task:** Working with one of the programs from Exercises 14 through 18, print a message indicating the number of people you are inviting to dinner.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
