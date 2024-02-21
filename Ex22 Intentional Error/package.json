@@ -1,0 +1,12 @@
+{
+  "name": "ex22-intentional-error",
+  "version": "1.0.0",
+  "description": "**Task:** If you haven’t received an array index error in one of your programs yet, try to make one happen. Change an index in one of your programs to produce an index error.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
