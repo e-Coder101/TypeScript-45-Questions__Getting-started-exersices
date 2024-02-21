@@ -1,0 +1,12 @@
+{
+  "name": "ex18-seeing-the-world",
+  "version": "1.0.0",
+  "description": "**Task:** Think of at least five places in the world you’d like to visit.\r - Store the locations in a array. Make sure the array is not in alphabetical order.\r - Print your array in its original order.\r - Print your array in alphabetical order without modifying the actual list.\r - Show that your array is still in its original order by printing it.\r - Print your array in reverse alphabetical order without changing the order of the original list.\r - Show that your array is still in its original order by printing it again.\r - Reverse the order of your list. Print the array to show that its order has changed.\r - Reverse the order of your list again. Print the list to show it’s back to its original order.\r - Sort your array so it’s stored in alphabetical order. Print the array to show that its order has been changed.\r - Sort to change your array so it’s stored in reverse alphabetical order. Print the list to show that its order has changed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
