@@ -1,5 +1,5 @@
-let modesOfTransprotation: string[] = ["Koenigsegg Jesco", "Lamborghini Huracan", "Bugatti Divo", "Porsche 911"];
+let vehicles: string[] = ["Koenigsegg Jesco", "Lamborghini Huracan", "Bugatti Divo", "Porsche 911"];
 
-modesOfTransprotation.forEach(mdtr => {
-    console.log(`${mdtr} is a supercar.`);
+vehicles.forEach(vehicle => {
+    console.log(`${vehicle} is a supercar.`);
 });

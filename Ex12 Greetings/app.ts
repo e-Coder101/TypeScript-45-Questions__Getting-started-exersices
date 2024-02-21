@@ -1,5 +1,5 @@
 let names: string[] = ["Mustafa", "Hamza", "Talha", "Saad"];
 
-names.forEach(nm => {
-    console.log(`Hello, ${nm}. Welcome to the club.`);
+names.forEach(name => {
+    console.log(`Hello, ${name}. Welcome to the club.`);
 });

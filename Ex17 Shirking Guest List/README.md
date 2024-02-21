@@ -5,6 +5,6 @@
 **Solution:** 
 - Start from Ex 16.
 - log the message that the dinner table will not be delivered and you can only invite 2 people.
-- iterate through the array, print an unvite message and pop each value one by one.
+- iterate through the array in reverse, print an unvite message and pop each value one by one.
 - for the last two remaining values, print that they are still invited and then remove them from the array.
 - log they empty array.

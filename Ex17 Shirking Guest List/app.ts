@@ -24,17 +24,18 @@ guests.forEach(guest => {
     console.log(`Salam ${guest}, you are invited to dinner.`);
 });
 
-//17
+//ex17
 console.log(`\nSadly the dinner table would not be delivered in time for the party.\nI can invite only two people now.\n`);
 
-for(let i = (guests.length - 1); i >= 0; i--){
-    if (i > 1) {
-        console.log(`Salam ${guests[i]}, you are uninvited from the party because of the delayed delivery of my dinner table.`);
+guests.toReversed().forEach(guest => {
+    guests.length === 2 ? console.log() : 0; //this adds an empty line after all uninvites are done.
+
+    if (guests.length > 2) {
+        console.log(`Salam ${guest}, you are uninvited from the party because of the delayed delivery of my dinner table.`);
     } else {
-        i === 1 ? console.log() : i;
-        console.log(`Salam ${guests[i]}, you are still invited to the party`)
+        console.log(`Salam ${guest}, you are still invited to the party`)
     }
-    guests.pop();
-}
+    guests.pop()
+});
 
 console.log(`\n\t Empty array: '${guests}'`);
