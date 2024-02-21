@@ -1,0 +1,12 @@
+{
+  "name": "ex21-object-program",
+  "version": "1.0.0",
+  "description": "**Task:** Think of something you could store in a TypeScript Object. Write a program that creates Objects containing these items.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
