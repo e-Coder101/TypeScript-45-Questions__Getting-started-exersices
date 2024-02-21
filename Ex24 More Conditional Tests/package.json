@@ -1,0 +1,12 @@
+{
+  "name": "ex24-more-conditional-tests",
+  "version": "1.0.0",
+  "description": "**Task:** Have at least one True and one False result for each of the following:\r - Tests for equality and inequality with strings\r - Tests using the lower case function\r - Numerical tests involving equality and inequality, greater than and less than, greater than or equal to, and less than or equal to\r - Tests using \"and\" and \"or\" operators\r - Test whether an item is in a array\r - Test whether an item is not in a array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -7,3 +7,4 @@
 - Compare the variable with a value.
 - If the values are same it will return true.
 - If the values are different it will return false.
+- Repeat as many types as required.
