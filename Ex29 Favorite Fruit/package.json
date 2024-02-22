@@ -1,0 +1,12 @@
+{
+  "name": "ex29-favorite-fruit",
+  "version": "1.0.0",
+  "description": "**Task:** Make a array of your favorite fruits, and then write a series of independent if statements that check for certain fruits in your array.\r - Make a array of your three favorite fruits and call it favorite_fruits.\r - Write five if statements. Each should check whether a certain kind of fruit is in your array. If the fruit is in your array, the if block should print a statement,\r such as You really like bananas!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
