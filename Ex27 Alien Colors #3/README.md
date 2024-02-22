@@ -1,4 +1,4 @@
-# Solution 26 of 45
+# Solution 27 of 45
 
 **Task:** Turn your if-else chain from Exercise 26 into an if-else-if chain.
 - If the alien is green, print a message that the player earned 5 points.
