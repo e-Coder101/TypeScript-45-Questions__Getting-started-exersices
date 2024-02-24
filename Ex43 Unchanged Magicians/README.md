@@ -1,0 +1,10 @@
+# Solution 43 of 45
+
+**Task:** Start with your work from Exercise 42. Call the function make_great() with a copy of the array of magicians’ names. Because the original array will be unchanged, return the new array and store it in a separate array. Call show_magicians() with each array to show that you have one array of the original
+names and one array with the Great added to each magician’s name.
+
+**Solution:**
+- Copy the program from Ex 42.
+- Clone the *'magicians'* array to the *'great_magicians'* array, using the slice() prototype or the spread operator, so that it doesn't reference the first array.
+- Call the *make_great* function on the second array instead of the first.
+- Print both arrays using the show_magicians function.

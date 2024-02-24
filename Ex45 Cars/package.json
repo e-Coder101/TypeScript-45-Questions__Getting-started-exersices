@@ -1,0 +1,12 @@
+{
+  "name": "ex45-cars",
+  "version": "1.0.0",
+  "description": "**Task:** Write a function that stores information about a car in a Object. The function should always receive a manufacturer and a model name. It should then accept an arbitrary number of keyword arguments. Call the function with the required information and two other name-value pairs, such as a color or an optional feature. \r Print the Object that’s returned to make sure all the information was stored correctly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
